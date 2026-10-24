@@ -101,7 +101,7 @@ I'm interested in AI/ML engineering, software development, and building practica
 ## 🤝 Let's Connect
 
 - 📧 Email: [harshitmishra2725@gmail.com](mailto:harshitmishra2725@gmail.com)
-- 💼 LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/in/harshit-mishra-cse/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/harshit-mishra-cse/)
 - 💻 GitHub: [@Harshit-Mishra1](https://github.com/Harshit-Mishra1)
 
 ---
