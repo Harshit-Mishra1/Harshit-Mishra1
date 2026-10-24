@@ -14,98 +14,106 @@ I'm interested in building practical machine learning applications, AI-powered s
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Languages and Tools
 
-**Languages**
-- Python, C++, C, SQL, Java (Basic)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,git,github,vscode,linux,docker,fastapi,pytorch,tensorflow&perline=7" alt="Languages and tools" />
+</p>
 
-**Data Analysis**
-- Pandas, NumPy, Matplotlib
-- Data Cleaning, Exploratory Data Analysis (EDA)
-- Feature Engineering and Statistical Analysis
+### Technical Skills
 
-**Machine Learning & Deep Learning**
-- Scikit-learn, PyTorch, TensorFlow (Fundamentals)
-- Classification, Regression, Clustering
-- CNNs, ANN, Model Training and Evaluation
-- PCA and Customer Segmentation
+**Languages:** Python, C++, C, SQL, Java (Basic)
 
-**NLP & Generative AI**
-- Hugging Face Transformers
-- T5-based Text Summarization
-- NLP and Emotion Analysis
-- LLM Fundamentals, Introductory LangChain and CrewAI
+**Data Analysis:** Pandas, NumPy, Matplotlib, EDA, Data Cleaning, Feature Engineering
 
-**Backend & Developer Tools**
-- FastAPI, REST APIs, MySQL
-- Git, GitHub, VS Code, Jupyter Notebook
-- Familiarity with Docker and Linux
+**Machine Learning & Deep Learning:** Scikit-learn, PyTorch, TensorFlow (Fundamentals), Classification, Regression, Clustering, ANN, CNN
 
-**Core Computer Science**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS, Operating Systems, Computer Networks
-- Algorithm Complexity
+**NLP & Generative AI:** Hugging Face Transformers, T5-based Text Summarization, NLP, Emotion Analysis, LLM Fundamentals
+
+**Backend & Tools:** FastAPI, REST APIs, MySQL, Git, GitHub, VS Code, Jupyter Notebook, Docker (Fundamentals)
+
+**Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks, Algorithm Complexity
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. Financial Fraud Detection
-An educational machine learning project focused on detecting potentially fraudulent financial transactions using traditional ML and deep learning approaches.
+
+An educational machine learning project focused on identifying potentially fraudulent financial transactions using traditional ML and deep learning approaches.
 
 **Tech:** Python, Pandas, Scikit-learn, PyTorch, Streamlit
 
-🔗 [View Repository](https://github.com/Harshit-Mishra1/financial-fraud-detection)
+[View Repository](https://github.com/Harshit-Mishra1/financial-fraud-detection)
 
 ### 2. Power Plant Energy Output Prediction Using ANN
-Developed a feedforward Artificial Neural Network to predict power plant energy output from environmental and operational features. Compared ANN performance against a Linear Regression baseline.
+
+Built a feedforward Artificial Neural Network to predict power plant energy output from environmental and operational features, with a Linear Regression baseline for comparison.
 
 **Tech:** Python, PyTorch, Scikit-learn, Pandas, NumPy
 
-🔗 [View Repository](https://github.com/Harshit-Mishra1/power-plant-energy-prediction)
+[View Repository](https://github.com/Harshit-Mishra1/power-plant-energy-prediction)
 
 ### 3. CIFAR-10 Image Classification Using CNN
-Implemented a Convolutional Neural Network for classifying CIFAR-10 images into 10 object categories using PyTorch and Torchvision.
+
+Implemented a Convolutional Neural Network to classify images into 10 object categories using PyTorch and Torchvision.
 
 **Tech:** Python, PyTorch, Torchvision, NumPy
 
-🔗 [View Repository](https://github.com/Harshit-Mishra1/cifar10-cnn)
+[View Repository](https://github.com/Harshit-Mishra1/cifar10-cnn)
 
 ### 4. Date Fruit Classification Using ANN
-Built an Artificial Neural Network classification model to categorize date-fruit samples using numerical features, with preprocessing and model evaluation.
+
+Built an Artificial Neural Network classification model using numerical features, with preprocessing and model evaluation.
 
 **Tech:** Python, PyTorch, Scikit-learn, Pandas, NumPy
 
-🔗 [View Repository](https://github.com/Harshit-Mishra1/date-fruit-ann-classification)
+[View Repository](https://github.com/Harshit-Mishra1/date-fruit-ann-classification)
 
 ### 5. LoanWise — Loan Approval Prediction
-Developed a loan prediction workflow with exploratory data analysis, missing-value imputation, feature engineering, and classification model comparison.
+
+Developed a loan prediction workflow involving exploratory data analysis, missing-value imputation, feature engineering, and classification model comparison.
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn
 
-🔗 [View Repository](https://github.com/Harshit-Mishra1/LoanWise-Loan-Approval-Prediction)
+[View Repository](https://github.com/Harshit-Mishra1/LoanWise-Loan-Approval-Prediction)
 
 ### 6. Text Summarizer — Transformer-Based NLP
+
 Built a text summarization application using a T5 transformer, with text preprocessing, tokenization, model fine-tuning, and a FastAPI backend.
 
-**Tech:** Python, T5, Hugging Face Transformers, FastAPI
+**Tech:** Python, Hugging Face Transformers, T5, FastAPI
 
-🔗 [View Repository](https://github.com/Harshit-Mishra1/Text-Summarizer)
+[View Repository](https://github.com/Harshit-Mishra1/Text-Summarizer)
 
 ### 7. SmartCart — Customer Segmentation System
+
 Analyzed customer data and applied preprocessing, PCA, K-Means, and Agglomerative Clustering to explore customer segments.
 
 **Tech:** Python, Pandas, Scikit-learn, PCA, Clustering
 
-🔗 [View Repository](https://github.com/Harshit-Mishra1/SmartCart-Customer-Segmentation)
+[View Repository](https://github.com/Harshit-Mishra1/SmartCart-Customer-Segmentation)
 
 ### 8. Vireon AI — Conversational AI Application
-Developed a conversational AI application using structured conversation workflows, NLP, emotion analysis, and a personalized dashboard.
 
-**Tech:** Python, NLP, Emotion Analysis, FastAPI
+Developed a conversational AI application concept involving NLP, emotion analysis, and a personalized dashboard.
 
-🔗 [View Repository](https://github.com/Harshit-Mishra1/Vireon-AI)
+**Tech:** Python, NLP, FastAPI
+
+[View Repository](https://github.com/Harshit-Mishra1/Vireon-AI)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshit-Mishra1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Mishra1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshit-Mishra1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
@@ -129,4 +137,6 @@ I'm interested in AI/ML engineering, software development, and building practica
 
 ---
 
-*Always learning, building, and improving — one project at a time.*
+<p align="center">
+  <i>Always learning, building, and improving — one project at a time.</i>
+</p>
